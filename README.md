@@ -1,1 +1,1 @@
-# Image_halftoning
+# Image_halftoning，一个简单的图片半调化工具，可以输出两张像素互补的灰度图片，可以用于手机全屏AOD防烧屏
